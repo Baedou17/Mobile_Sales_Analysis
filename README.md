@@ -8,3 +8,8 @@ _The goal of this project was to analyze mobile phone sales data to uncover tren
 Project Overview | Data Sources | Tools Used | Table Outlay | Query Language(SQL) | Visualization
 
 ---
+## Project Overview:
+(insert here)
+
+## Data Source:
+www.kaggle.com/dataset

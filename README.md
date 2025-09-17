@@ -39,4 +39,27 @@ CASE
 END AS 'Category'
 FROM mobile_sales;
 ```
-
+```SQL
+---Retrieve all female customers who bought goods above 900.---
+SELECT * FROM mobile_sales
+WHERE CustomerGender = 'Female'
+	AND Price > 900;
+```
+```SQL
+---Retrieve the sales by payment method, arranging from largest to smallest amount.---
+SELECT PaymentMethod, SUM(TotalRevenue) AS Sales 
+FROM mobile_sales
+GROUP BY PaymentMethod
+ORDER BY Sales DESC;
+```
+```SQL
+---Retrieve the most expensive brand.---
+SELECT max(Price) AS Price, Brand FROM mobile_sales
+group by Brand
+order by Price DESC
+limit 1;
+```
+```SQL
+---How many brands are there?---
+SELECT COUNT(DISTINCT Brand) AS No_Of_Brand FROM mobile_sales;
+```

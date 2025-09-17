@@ -13,3 +13,9 @@ Project Overview | Data Sources | Tools Used | Table Outlay | Query Language(SQL
 
 ## Data Source:
 www.kaggle.com/dataset
+
+---
+## Tools Used
++ Pivot Table / Charts
++ Power BI
++ SQL

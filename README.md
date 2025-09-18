@@ -63,3 +63,5 @@ limit 1;
 ---How many brands are there?---
 SELECT COUNT(DISTINCT Brand) AS No_Of_Brand FROM mobile_sales;
 ```
+## Power BI Dashboard
+<img width="1217" height="658" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4148b246-468c-4745-aa62-4200ba312a0a" />

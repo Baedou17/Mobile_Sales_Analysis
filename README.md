@@ -67,4 +67,5 @@ SELECT COUNT(DISTINCT Brand) AS No_Of_Brand FROM mobile_sales;
 <img width="1217" height="658" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4148b246-468c-4745-aa62-4200ba312a0a" />
 
 ## Pivot Table
+<img width="1531" height="659" alt="pivot_mobile" src="https://github.com/user-attachments/assets/8194f329-e78b-4150-a2b0-7b6d83cddc7e" />
 

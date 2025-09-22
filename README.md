@@ -16,7 +16,7 @@ www.kaggle.com/dataset
 
 ---
 ## Tools Used
-+ Pivot Table / Charts
++ Pivot Table 
 + Power BI
 + SQL
 
